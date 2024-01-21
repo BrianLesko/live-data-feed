@@ -52,6 +52,4 @@ def main():
         with image_spot:
             st.pyplot(fig) 
 
-    
-
 main()

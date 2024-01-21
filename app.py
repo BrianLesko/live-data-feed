@@ -1,8 +1,6 @@
-##################################################################
 # Brian Lesko 
-# 12/2/2023
-# Robotics Studies, RRT Search
-# Rapidly exploring Random Tree
+# 1/21/2024
+# Data science studies, real time live data display
 
 import streamlit as st
 import numpy as np
@@ -30,7 +28,6 @@ def main():
     times = []
     # set the Y axis limits to be static
     ax.set_ylim(-1.5, 1.5)
-    
 
     while True:
         t = time.time() - start_time

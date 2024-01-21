@@ -26,8 +26,7 @@ def main():
     start_time = time.time()
     data_log = []
     times = []
-    # set the Y axis limits to be static
-    ax.set_ylim(-1.5, 1.5)
+    ax.set_ylim(-1.5, 1.5) # set the Y axis limits to be static
 
     while True:
         t = time.time() - start_time

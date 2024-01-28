@@ -23,7 +23,7 @@ This code uses the following libraries:
 Run the following commands:
 ```
 pip install --upgrade streamlit matplotlib
-streamlit run https://raw.githubusercontent.com/BrianLesko/rrt-star/main/app.py
+streamlit run [https://raw.githubusercontent.com/BrianLesko/rrt-star/main/app.py](https://raw.githubusercontent.com/BrianLesko/live-data-feed/main/app.py)
 ```
 
 This will start the local Streamlit server, and you can access the chatbot by opening a web browser and navigating to `http://localhost:8501`.

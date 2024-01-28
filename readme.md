@@ -1,6 +1,6 @@
 
 # Live Data Feed
-This code implements a live data viewer written with Streamlit, a low code Web browser UI. This project is written in [Pure Python](https://github.com/BrianLesko/rrt-star/blob/main/app.py) in under 50 lines of code. Created by Brian Lesko for professional engineering purposes.
+This code implements a live data viewer written with Streamlit, a low code Web browser UI. This project is written in [Pure Python](https://github.com/BrianLesko/live-data-feed/blob/main/app.py) in under 50 lines of code. Created by Brian Lesko for professional engineering purposes.
 
 &nbsp;
 
